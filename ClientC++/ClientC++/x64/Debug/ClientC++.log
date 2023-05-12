@@ -1,0 +1,3 @@
+﻿  CClient.cpp
+C:\Users\oxotn\OneDrive\Рабочий стол\Отчёты\2 курс 2 семестр\C++\ClientC++\ClientC++\CClient.cpp(38,102): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientC++.vcxproj -> C:\Users\oxotn\OneDrive\Рабочий стол\Отчёты\2 курс 2 семестр\C++\ClientC++\x64\Debug\ClientC++.exe
